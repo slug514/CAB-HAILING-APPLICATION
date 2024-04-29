@@ -1,0 +1,51 @@
+
+
+             Frequently Asked Questions (FAQs)
+      --------------------------------------------------
+        
+1. How do I book a cab using the Software?
+
+   To book a cab, simply open the software, enter your pickup location, drop-off location, and preferred cab type. Then, 
+   confirm your ride, A cab will be allotted to you.
+
+
+
+2. Can I cancel my cab booking, and will there be a cancellation fee?
+
+   Yes, you can cancel your cab booking before the driver arrives. However, cancellation fees may apply if the cancellation 
+   is made after a certain time frame. Please refer to our cancellation policy for details.
+
+
+
+3.  How is the fare calculated? Is it based on distance or time?
+
+   The fare is calculated based on both distance and time. We use a combination of factors, including distance traveled, 
+   time taken, and base fare, to provide you with the most accurate fare.
+
+
+
+4. Are there different types of cabs available, and how do I choose the one I need?
+ 
+   Yes, we offer various cab types to cater to different needs and preferences. During the booking process, you can select 
+   your preferred cab type from the options available.
+
+
+
+5. Can I schedule a cab in advance for a specific time and date?
+ 
+   Absolutely! We offer the option to schedule a cab in advance. During the booking process, select the "Advance Booking" 
+   option and choose your preferred time 2-10 hours from your time of booking and also we're working to enable the user to book a cab, certain days in advance.
+
+
+
+6. Are there any additional charges or hidden fees?
+ 
+  No, we believe in transparent pricing. The fare displayed during the booking process is the final amount, and there are 
+  no hidden fees.
+   
+
+
+7.  How can I view the details of the assigned driver after booking a cab?
+
+   After booking a cab, you will receive a notification with the assigned driver's name, contact number, and vehicle 
+   details.
